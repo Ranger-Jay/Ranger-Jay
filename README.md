@@ -51,6 +51,6 @@
 
 # :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranger-Jay&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranger-Jay&show_icons=true&theme=tokyonight) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranger-Jay&show_icons=true&theme=tokyonight)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ranger-Jay&theme=cobalt)](https://git.io/streak-stats)
 </div>
