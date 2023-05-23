@@ -13,7 +13,7 @@ Hello and welcome to my Github profile!  I'm a dedicated learner, on a mission t
 - :telescope:  React, HTML/CSS, JavaScript, ReactJS, Python.
 - :computer: Currently working on: Javascript and ReactJS applications to fine tune my skills
 - :zap: Fun fact: Python is fun, powerful, and interesting!
-- Note: If you like any of my stuff, or think you can make it better, please do fork & star! :)
+- Note: Like my stuff? Think you can make it better? Please do fork & star! :)
 
 ### :hammer_and_wrench: Languages and tools used most often
 <div align="center">
