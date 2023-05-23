@@ -10,8 +10,8 @@
   </div>
   </div>
 
-<b>About Me:<br>
-Hello and welcome to my Github profile!  I'm a dedicated learner, on a mission to have no untapped potential. I'm all-in and committed to this craft. I'm eager to learn and work across domains. I also love to explore new technologies and leverage them to solve problems. Apart from that, I'm fond of mentoring new teammates. I'm currently seeking to improve my knowledge base in both front and back end development.
+<p><strong>&lt;b&gt;<span style="color:#ff0000">About Me:</span>&lt;br&gt;</strong><br />
+Hello and welcome to my Github profile!😄&nbsp;I&#39;m a dedicated learner, on a mission to have no untapped potential. I&#39;m <strong><u>all-in</u></strong> and committed to this craft. I&#39;m eager to learn and work with anyone who will work with me. I also love to explore new technologies and use them to solve problems. Aside from that, I&#39;m fond of mentoring new teammates. and seeing my organization achieve goals. I&#39;m working hard every day to improve my knowledge in both front and backend development!</p>
 
 - :telescope:  React, HTML/CSS, JavaScript, ReactJS, Python.
 - :computer: Currently working on: Javascript and ReactJS applications to fine tune my skills
