@@ -8,11 +8,12 @@
   </div>
 
 About Me:
-Hello and welcome to my Github profile! If you like any of my stuff, and think you can make it better, please do fork & star! :)  I'm a dedicated learner, on a mission to have no untapped potential. I'm all-in and committed to this craft. I'm eager to learn and work across domains. I also love to explore new technologies and leverage them to solve problems. Apart from that, I'm fond of mentoring new teammates. I'm currently seeking to improve my knowledge base in both front and back end development.
+Hello and welcome to my Github profile!  I'm a dedicated learner, on a mission to have no untapped potential. I'm all-in and committed to this craft. I'm eager to learn and work across domains. I also love to explore new technologies and leverage them to solve problems. Apart from that, I'm fond of mentoring new teammates. I'm currently seeking to improve my knowledge base in both front and back end development.
 
 - :telescope:  React, HTML/CSS, JavaScript, ReactJS, Python.
 - :computer: Currently working on: Javascript and ReactJS applications to fine tune my skills
 - :zap: Fun fact: Python is fun, powerful, and interesting!
+- Note: If you like any of my stuff, or think you can make it better, please do fork & star! :)
 
 ### :hammer_and_wrench: Languages and tools used most often
 <div align="center">
