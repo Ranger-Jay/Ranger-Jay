@@ -1,4 +1,7 @@
-![Header](./Jay Rietzke.jpg)
+<p align="center">
+<img src="https://github.com/Ranger-Jay/Ranger-Jay/jay-gh-bg.jpg" />
+</p align="center">
+
 <div align="center">
   <div id="badges">
     <a href="https://www.linkedin.com/in/jay-rietzke-68217525a/">
