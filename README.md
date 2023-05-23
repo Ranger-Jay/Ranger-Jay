@@ -13,7 +13,7 @@
 <p><strong>About Me:</strong><br/>
 Hello and welcome to my Github profile!😄&nbsp;I&#39;m a dedicated learner, on a mission to have no untapped potential. I&#39;m <strong><u>all-in</u></strong> and committed to this craft. I&#39;m eager to learn and work with anyone who will work with me. I also love to explore new technologies and use them to solve problems. Aside from that, I&#39;m fond of mentoring new teammates. and seeing my organization achieve goals. I&#39;m working hard every day to improve my knowledge in both front and backend development!</p>
 
-- :telescope:  React, HTML/CSS, JavaScript, ReactJS, Python.
+- :telescope:  ReactJS, HTML/CSS, JavaScript, Python.
 - :computer: Currently working on: Javascript and ReactJS applications to fine tune my skills.
 - :zap: Fun fact: Python is fun, powerful, and interesting!
 - <stong>Note:</strong> Like my stuff? Think you can make it better? Let's Collab. Please do fork & star!😄
@@ -21,9 +21,10 @@ Hello and welcome to my Github profile!😄&nbsp;I&#39;m a dedicated learner, on
 ### :hammer_and_wrench: Languages and tools used a lot!
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="49"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
