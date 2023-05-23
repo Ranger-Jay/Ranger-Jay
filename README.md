@@ -18,7 +18,7 @@
 - :telescope:  ReactJS, HTML/CSS, JavaScript, Python.
 - <stong>Note:</strong> Like my stuff? Let's Collab! Please do fork & star!😄
 - :computer: Currently working on: ReactJS applications to refine my skills.
-- :zap: Fun fact: Python is fun, powerful, and interesting!
+- :zap: Fun fact: React is fun, powerful, and interesting!
 <div align="center">
 
 
