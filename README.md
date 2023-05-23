@@ -1,6 +1,4 @@
-<!-- <p align="center">
-[<img src="https://github.com/Ranger-Jay/Ranger-Jay/jay-gh-bg.jpg" />](https://github.com/Ranger-Jay/Ranger-Jay/blob/main/jay-gh-bg.jpg)
-</p align="center"> -->
+![Header](./https://github.com/Ranger-Jay/Ranger-Jay/blob/main/jay-gh-bg.jpg)
 
 <div align="center">
   <div id="badges">
