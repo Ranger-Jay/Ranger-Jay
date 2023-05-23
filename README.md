@@ -18,9 +18,7 @@ Hello and welcome to my Github profile!😄&nbsp;I&#39;m a dedicated learner, on
 - :zap: Fun fact: Python is fun, powerful, and interesting!
 - <stong>Note:</strong> Like my stuff? Think you can make it better? Let's Collab. Please do fork & star!😄
 
-
-<p align="center">
-  ### :hammer_and_wrench: My Developer Stack </p>
+  ### :hammer_and_wrench: My Developer Stack
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
