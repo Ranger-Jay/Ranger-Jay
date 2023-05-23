@@ -39,8 +39,10 @@ Hello and welcome to my Github profile!😄&nbsp;I&#39;m a dedicated learner, on
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" bg-color="white" alt="Git" width="40" height="40"/> -->
 </div>
   
-<div align="center">  
-## :fire: My Stats :
+<div align="center">
+  
+
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ranger-Jay&theme=cobalt)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranger-Jay&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranger-Jay&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
