@@ -14,9 +14,9 @@
 Hello and welcome to my Github profile!😄&nbsp;I&#39;m a dedicated learner, on a mission to have no untapped potential. I&#39;m <strong><u>all-in</u></strong> and committed to this craft. I&#39;m eager to learn and work with anyone who will work with me. I also love to explore new technologies and use them to solve problems. Aside from that, I&#39;m fond of mentoring new teammates. and seeing my organization achieve goals. I&#39;m working hard every day to improve my knowledge in both front and backend development!</p>
 
 - :telescope:  React, HTML/CSS, JavaScript, ReactJS, Python.
-- :computer: Currently working on: Javascript and ReactJS applications to fine tune my skills
+- :computer: Currently working on: Javascript and ReactJS applications to fine tune my skills.
 - :zap: Fun fact: Python is fun, powerful, and interesting!
-- Note: Like my stuff? Think you can make it better? Please do fork & star! :)
+- Note: Like my stuff? Think you can make it better? Let's Collab. Please do fork & star! :)
 
 ### :hammer_and_wrench: Languages and tools used most often
 <div align="center">
