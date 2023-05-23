@@ -10,7 +10,7 @@
   </div>
   </div>
 
-About Me:<b></b>
+<b>About Me:</b>
 Hello and welcome to my Github profile!  I'm a dedicated learner, on a mission to have no untapped potential. I'm all-in and committed to this craft. I'm eager to learn and work across domains. I also love to explore new technologies and leverage them to solve problems. Apart from that, I'm fond of mentoring new teammates. I'm currently seeking to improve my knowledge base in both front and back end development.
 
 - :telescope:  React, HTML/CSS, JavaScript, ReactJS, Python.
