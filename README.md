@@ -16,10 +16,9 @@ Hello and welcome to my Github profile!😄&nbsp;I&#39;m a dedicated learner, on
 - :telescope:  React, HTML/CSS, JavaScript, ReactJS, Python.
 - :computer: Currently working on: Javascript and ReactJS applications to fine tune my skills.
 - :zap: Fun fact: Python is fun, powerful, and interesting!
+- <stong>Note:</strong> Like my stuff? Think you can make it better? Let's Collab. Please do fork & star!😄
 
-- <stong>Note:</strong> Like my stuff? Think you can make it better? Let's Collab. Please do fork & star! :)
-
-### :hammer_and_wrench: Languages and tools used most often
+### :hammer_and_wrench: Languages and tools used a lot!
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
