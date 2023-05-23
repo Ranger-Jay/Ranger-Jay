@@ -1,4 +1,9 @@
-![Header](./https://github.com/Ranger-Jay/Ranger-Jay/blob/main/jay-gh-bg.jpg)
+
+<!--  https://ritik307.github.io/portfolio/  -->
+<p align="center">
+ 
+</p align="center">
+<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
 
 <div align="center">
   <div id="badges">
