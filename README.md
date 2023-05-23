@@ -18,7 +18,7 @@ Hello and welcome to my Github profile!😄&nbsp;I&#39;m a dedicated learner, on
 - :computer: Currently working on: Javascript and ReactJS applications to fine tune my skills.
 - :zap: Fun fact: Python is fun, powerful, and interesting!
 
-## :hammer_and_wrench: My Developer Stack
+# :hammer_and_wrench: My Developer Stack
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
