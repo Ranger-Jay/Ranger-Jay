@@ -28,7 +28,7 @@ Hello and welcome to my Github profile!😄&nbsp;I&#39;m a dedicated learner, on
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="49"/>&nbsp;
 </div>
 
-# :hammer_and_wrench: Other Tech I Use
+# :hammer_and_wrench: Other Tools & Tech I Use
 <div id="other_bages" align="center">
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
