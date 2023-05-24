@@ -17,7 +17,7 @@
 
 # 📖 About Me 
 </div>
-<p>Hello and welcome to my Github profile!😄&nbsp;I&#39;m a dedicated learner, on a mission to have no untapped potential. I&#39;m <strong>all-in</strong> and committed to this craft. I&#39;m eager to learn and work with anyone who will work with me. I also ejoy exploring new technologies, and using them to solve problems. Aside from that, I&#39;m fond of mentoring new teammates, camping, traveling, and seeing people & my organizations achieve their goals. It just...does something for me. I&#39;m working hard every day to improve my skills in both front and backend development.</p>
+<p>Welcome to my Github profile!😄&nbsp;I&#39;m a dedicated learner, on a mission to have no untapped potential. I&#39;m <strong>all-in</strong> and committed to this craft. I&#39;m eager to learn and work with anyone who will work with me. I also ejoy exploring new technologies, and using them to solve problems. Aside from that, I&#39;m fond of mentoring new teammates, camping, traveling, and seeing people & my organizations achieve their goals. It just...does something for me. I&#39;m working hard every day to improve my skills in both front and backend development.</p>
 
 - 👍 React, HTML/CSS, JavaScript, Python.
 - 📝Note: Like my stuff? Let's Collab! Please do fork & star.⭐
