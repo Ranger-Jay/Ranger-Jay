@@ -3,7 +3,7 @@
 <p align="center">
  
 <!-- </p align="center"> -->
-<img src="https://github.com/Ranger-Jay/Ranger-Jay/blob/main/jay-gh-bg.jpg" width = 100% height: 100%/>
+<img src="https://github.com/Ranger-Jay/Ranger-Jay/blob/main/jay-gh-bg.jpg" width = 100% height = 100%/>
 </p align="center">
 
 <div align="center">
