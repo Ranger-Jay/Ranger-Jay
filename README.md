@@ -22,7 +22,7 @@
 - 👍 React, HTML5, CSS3, JavaScript, Python.
 - 📝 Note: Like my stuff? Let's Collab! Please do fork & star.⭐
 - :computer: Currently working on: React applications to refine my skills.
-- :zap: Fun fact: React is fun, powerful, and interesting!
+- :zap: Fun fact: React is fun, powerful, and interesting!!
 <div align="center">
 
 
