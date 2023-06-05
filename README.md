@@ -1,5 +1,5 @@
 
-<!--  /  -->
+<!--  /can add new tokens and shields  -->
 <p align="center">
  
 <!-- </p align="center"> -->
