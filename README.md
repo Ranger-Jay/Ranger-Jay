@@ -8,7 +8,7 @@
 
 <div align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/jay-rietzke-68217525a/">
+    <a href="https://www.linkedin.com/in/WebDevJayR">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
     </a>
   </div>
