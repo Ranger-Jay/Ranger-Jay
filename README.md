@@ -17,7 +17,7 @@
 
 # 📖 About Me
 </div>
-<p>Welcome to my Github profile!😄&nbsp;I&#39;m a dedicated learner, on a mission to have no untapped potential. I&#39;m <strong>all-in</strong> and committed to this craft. I&#39;m eager to learn and work with anyone who will work with me. I enjoy exploring new technologies, and using them to solve problems. Aside from that, I&#39;m fond of mentoring new teammates, camping, traveling, and seeing people achieve goals. It just...does something for me. Currently, I&#39;m working hard every day to improve my skills in both front and backend development.</p>
+<p>Welcome to my Github profile!😄&nbsp;I&#39;m a dedicated learner, on a mission to have no untapped potential. I&#39;m <strong>all-in</strong> and committed to this craft. I&#39;m eager to learn and work with anyone who will work with me. I enjoy exploring new technologies and using them to solve problems. Aside from that, I&#39;m fond of mentoring new teammates, camping, traveling, and seeing people achieve goals. It just...does something for me. Currently, I&#39;m working hard every day to improve my skills in both front and backend development.</p>
 
 - 👍 HTML5, CSS3, JavaScript, Python, React.
 - 📝 Note: Like my stuff? Let's Collab! Please do fork & star.⭐
@@ -28,7 +28,7 @@
 
 # :hammer_and_wrench: My Developer Stack
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="49"/>&nbsp;
