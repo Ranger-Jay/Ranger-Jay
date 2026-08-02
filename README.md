@@ -1,15 +1,26 @@
+<div align="center">
+
 <img src="https://github.com/Ranger-Jay/Ranger-Jay/raw/main/jay-gh-bg.jpg" alt="Jay — Full Stack Developer & Film Director" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/WebDevJayR)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/WebDev_Jay_R)
+[![Twitter](https://img.shields.io/badge/@WebDev__Jay__R-000000?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/WebDev_Jay_R)
 
-# Jay
+</div>
+
+# 📖 About Me
 
 **Full Stack Developer · Film Director · Building AI production tooling**
 
 I direct film, I write code, and lately those two things have collapsed into one job.
 I'm currently directing a thriller/horror feature using a multi-agent AI production
 pipeline — and building the tooling I kept wishing existed while making it.
+
+Dedicated learner on a mission to have no untapped potential. **All-in** and committed to
+the craft. I enjoy exploring new technologies and using them to solve problems. Aside from
+that, I'm fond of mentoring new teammates, camping, traveling, and seeing people achieve
+goals. It just...does something for me.
+
+Like my stuff? Let's collab — fork and star ⭐
 
 ---
 
@@ -92,21 +103,10 @@ Findings from live generation testing that shaped the tool:
 
 ---
 
-# 📖 A bit more
-
-Dedicated learner on a mission to have no untapped potential. **All-in** and committed to
-the craft. I enjoy exploring new technologies and using them to solve problems. Aside from
-that, I'm fond of mentoring new teammates, camping, traveling, and seeing people achieve
-goals. It just...does something for me.
-
-Like my stuff? Let's collab — fork and star ⭐
-
----
-
 # 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ranger-Jay&show_icons=true&theme=tokyonight&hide_border=true" alt="Jay's GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranger-Jay&layout=compact&theme=tokyonight&hide_border=true" alt="Jay's most used languages" />
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Ranger-Jay&theme=tokyonight&hide_border=true" alt="Jay's contribution streak" />
+
+</div>
