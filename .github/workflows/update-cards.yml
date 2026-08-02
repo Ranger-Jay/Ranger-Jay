@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Ranger-Jay&layout=compact&langs_count=8&theme=tokyonight&hide_border=true
+          options: username=Ranger-Jay&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=mako,shell,dockerfile,procfile
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
 
