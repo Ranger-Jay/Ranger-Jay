@@ -2,8 +2,8 @@
 
 <img src="https://github.com/Ranger-Jay/Ranger-Jay/raw/main/jay-gh-bg.jpg" alt="Jay — Full Stack Developer & Film Director" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/WebDevJayR)
-[![Twitter](https://img.shields.io/badge/@WebDev__Jay__R-000000?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/WebDev_Jay_R)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jayEngineered)
+[![Twitter](https://img.shields.io/badge/@WebDev__Jay__R-000000?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/jayEngineered)
 
 </div>
 
