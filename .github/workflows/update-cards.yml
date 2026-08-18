@@ -31,6 +31,23 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
 
+      - name: Generate streak card
+        shell: bash
+        env:
+          URL: "https://streak-stats.demolab.com/?user=Ranger-Jay&theme=tokyonight&hide_border=true"
+        run: |
+          ok=0
+          for i in 1 2 3 4 5; do
+            if curl -sSfL --max-time 60 "$URL" -o streak.tmp \
+               && grep -q "Total Contributions" streak.tmp; then
+              mv streak.tmp profile/streak.svg; ok=1; break
+            fi
+            echo "Attempt $i failed; retrying in 20s"
+            sleep 20
+          done
+          rm -f streak.tmp
+          [ "$ok" = 1 ] || echo "Streak service down; keeping previous card."
+          
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
