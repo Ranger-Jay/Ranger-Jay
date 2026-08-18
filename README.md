@@ -109,6 +109,6 @@ Findings from live generation testing that shaped the tool:
 
 <img src="./profile/stats.svg" alt="Jay's GitHub stats" />
 <img src="./profile/top-langs.svg" alt="Jay's most used languages" />
-<img src="https://streak-stats.demolab.com?user=Ranger-Jay&theme=tokyonight&hide_border=true" alt="Jay's contribution streak" />
+<img src="./profile/streak.svg" alt="Jay's contribution streak" />
 
 </div>
