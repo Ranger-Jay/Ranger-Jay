@@ -68,7 +68,7 @@ Findings from live generation testing that shaped the tool:
 - **Held objects float.** "In its mouth" renders as hovering-near-the-face unless you
   describe the grip itself.
 - **Camera moves are reliable.** A 180° orbit executes accurately and lands where you asked.
-- **Vite, Vercel, & TypeScript make an incredible combination!
+- **Tinkring with Tech.** Vite, Vercel, & TypeScript make an incredible combination!
 
 ---
 
