@@ -100,7 +100,7 @@ Findings from live generation testing that shaped the tool:
 ![Veo](https://img.shields.io/badge/Veo-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)
 
-**Learning next:** TypeScript · Vite · testing (Vitest/Playwright) · Postgres
+**Learning next:** TypeScript · Vite · testing (Vitest/Playwright) · Postgres · More Node.js
 
 ---
 
