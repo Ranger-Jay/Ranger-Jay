@@ -9,7 +9,7 @@
 
 # 📖 About Me
 
-**Full Stack Developer · Film Director · Building AI production tooling*
+**Full Stack Developer · Film Director · Building AI production tooling**
 
 Combat Veteran - Now I direct film, I write code, and lately those two things have collapsed
 into one job. I'm currently directing a thriller/horror feature using a multi-agent AI
