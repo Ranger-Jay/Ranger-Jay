@@ -120,11 +120,11 @@ Findings from live generation testing that shaped the tool:
 
 # 📊 Stats
 
-<div align="center">
-
-<img src="./profile/stats.svg" alt="Jay's GitHub stats" width="100%" />
-<img src="./profile/top-langs.svg" alt="Jay's most used languages" width="100%" />
-<img src="./profile/streak.svg" alt="Jay's contribution streak" width="100%" />
-<img src="./profile/activity.svg" alt="Jay's contribution activity, last 31 days" width="100%" />
-
-</div>
+<p align="center">
+<img src="./profile/stats.svg" alt="Jay's GitHub stats" width="49%" />
+<img src="./profile/streak.svg" alt="Jay's contribution streak" width="49%" />
+</p>
+<p align="center">
+<img src="./profile/top-langs.svg" alt="Jay's most used languages" width="49%" />
+<img src="./profile/activity.svg" alt="Jay's contribution activity, last 31 days" width="49%" />
+</p>
