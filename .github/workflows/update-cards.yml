@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 6 * * *"   # daily, 6am UTC (2am Eastern)
   workflow_dispatch:       # lets you run it manually from the Actions tab
+  push:                    # regenerate cards whenever the README or this workflow changes
+    branches: [main]
+    paths:
+      - "README.md"
+      - ".github/workflows/update-cards.yml"
 
 # BRL palette: obsidian 0d0f14 · ice blue a6dcff · neon purple 9d5cff · pearl e7e3db · cyan spark 7ff6ff
 
