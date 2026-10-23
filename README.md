@@ -106,7 +106,6 @@ Findings from live generation testing that shaped the tool:
 
 **AI production pipeline**
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Leonardo AI](https://img.shields.io/badge/Leonardo%20AI-8F7DE0?style=for-the-badge&logoColor=white)
 ![Google Flow](https://img.shields.io/badge/Google%20Flow-5B8DEF?style=for-the-badge&logo=google&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)
