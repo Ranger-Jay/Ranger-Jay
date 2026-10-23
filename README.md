@@ -20,8 +20,6 @@ the craft. I enjoy exploring new technologies and using them to solve problems. 
 that, I'm fond of mentoring new teammates, camping, traveling, and seeing people achieve
 goals. It just...does something for me.
 
-Like my stuff? Let's collab — fork and star ⭐
-
 ---
 
 # 🚧 Currently Building
