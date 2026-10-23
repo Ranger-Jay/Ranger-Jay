@@ -1,19 +1,19 @@
 
       <svg
-        width="467"
+        width="830"
         height="195"
-        viewBox="0 0 467 195"
+        viewBox="0 0 830 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">Jay&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1879, Total PRs: 228, Total Issues: 198, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 1885, Total PRs: 228, Total Issues: 198, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #70a5fd;
+            fill: #a6dcff;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #38bdae;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #e7e3db;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e7e3db;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #bf91f3;
+      fill: #9d5cff;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #70a5fd;
+      stroke: #9d5cff;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #70a5fd;
+      stroke: #9d5cff;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 104.73468234654113;
+        stroke-dashoffset: 104.68741870477922;
       }
     }
   
@@ -117,8 +117,8 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="466"
-          fill="#1a1b27"
+          width="829"
+          fill="#0d0f14"
           stroke-opacity="0"
         />
 
@@ -144,7 +144,7 @@
         >
           
     <g data-testid="rank-circle"
-          transform="translate(390.5, 47.5)">
+          transform="translate(753.5, 47.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
