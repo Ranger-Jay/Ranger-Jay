@@ -99,10 +99,10 @@ Findings from live generation testing that shaped the tool:
 
 **AI coding**
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logoColor=white)
 ![Grok Build](https://img.shields.io/badge/Grok%20Build-000000?style=for-the-badge&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 **AI production pipeline**
 
@@ -111,7 +111,7 @@ Findings from live generation testing that shaped the tool:
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)
 ![Veo](https://img.shields.io/badge/Veo-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Learning next:** testing (Vitest/Playwright) · Postgres · More Node.js
+**Learning next:** Testing Playwright · Postgres · More Node.js
 
 ---
 
