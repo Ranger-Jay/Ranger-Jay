@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://github.com/Ranger-Jay/Ranger-Jay/raw/main/jay-gh-bg.jpg" alt="Jay — Full Stack Developer & Film Director" />
+<img src="https://github.com/Ranger-Jay/Ranger-Jay/raw/main/jay-gh-bg.jpg" alt="Jay — Full Stack Web Developer & Film Director" />
 
 [![LinkedIn](https://img.shields.io/badge/in%2FjayEngineered-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jayEngineered)
-[![Twitter](https://img.shields.io/badge/@jayEngineered-000000?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/jayEngineered)
+[![X](https://img.shields.io/badge/@jayEngineered-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/jayEngineered)
 
 </div>
 
 # 📖 About Me
 
-**Full Stack Developer · Film Director · Building AI production tooling**
+**Full Stack Web Developer · Film Director · Building AI production tooling**
 
 Combat Veteran - Now I direct film, I write code, and lately those two things have collapsed
 into one job. I'm currently directing a thriller/horror feature using a multi-agent AI
@@ -68,7 +68,6 @@ Findings from live generation testing that shaped the tool:
 - **Held objects float.** "In its mouth" renders as hovering-near-the-face unless you
   describe the grip itself.
 - **Camera moves are reliable.** A 180° orbit executes accurately and lands where you asked.
-- **Tinkering with Tech.** Vite, Vercel, & TypeScript make an incredible combination!
 
 ---
 
@@ -76,21 +75,36 @@ Findings from live generation testing that shaped the tool:
 
 **Core**
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+
+**Frameworks**
+
+![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Tools**
 
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+**AI coding**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logoColor=white)
+![Grok Build](https://img.shields.io/badge/Grok%20Build-000000?style=for-the-badge&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **AI production pipeline**
 
@@ -100,7 +114,7 @@ Findings from live generation testing that shaped the tool:
 ![Veo](https://img.shields.io/badge/Veo-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)
 
-**Learning next:** TypeScript · Vite · testing (Vitest/Playwright) · Postgres · More Node.js
+**Learning next:** testing (Vitest/Playwright) · Postgres · More Node.js
 
 ---
 
@@ -108,8 +122,9 @@ Findings from live generation testing that shaped the tool:
 
 <div align="center">
 
-<img src="./profile/stats.svg" alt="Jay's GitHub stats" />
-<img src="./profile/top-langs.svg" alt="Jay's most used languages" />
-<img src="./profile/streak.svg" alt="Jay's contribution streak" />
+<img src="./profile/stats.svg" alt="Jay's GitHub stats" width="100%" />
+<img src="./profile/top-langs.svg" alt="Jay's most used languages" width="100%" />
+<img src="./profile/streak.svg" alt="Jay's contribution streak" width="100%" />
+<img src="./profile/activity.svg" alt="Jay's contribution activity, last 31 days" width="100%" />
 
 </div>

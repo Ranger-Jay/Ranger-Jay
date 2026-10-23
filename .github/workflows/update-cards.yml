@@ -5,6 +5,8 @@ on:
     - cron: "0 6 * * *"   # daily, 6am UTC (2am Eastern)
   workflow_dispatch:       # lets you run it manually from the Actions tab
 
+# BRL palette: obsidian 0d0f14 · ice blue a6dcff · neon purple 9d5cff · pearl e7e3db · cyan spark 7ff6ff
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -19,7 +21,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Ranger-Jay&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true
+          options: username=Ranger-Jay&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&card_width=830&bg_color=0d0f14&title_color=a6dcff&text_color=e7e3db&icon_color=9d5cff&ring_color=9d5cff
           path: profile/stats.svg
           token: ${{ secrets.STATS_TOKEN }}
 
@@ -27,14 +29,14 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=Ranger-Jay&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=mako,shell,dockerfile,procfile
+          options: username=Ranger-Jay&layout=compact&langs_count=6&hide_border=true&hide=mako,shell,dockerfile,procfile&card_width=830&bg_color=0d0f14&title_color=a6dcff&text_color=e7e3db
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_TOKEN }}
 
       - name: Generate streak card
         shell: bash
         env:
-          URL: "https://streak-stats.demolab.com/?user=Ranger-Jay&theme=tokyonight&hide_border=true"
+          URL: "https://streak-stats.demolab.com/?user=Ranger-Jay&hide_border=true&card_width=830&background=0d0f14&stroke=1a1e27&ring=9d5cff&fire=9d5cff&currStreakNum=a6dcff&sideNums=a6dcff&currStreakLabel=a6dcff&sideLabels=e7e3db&dates=e7e3db"
         run: |
           ok=0
           for i in 1 2 3 4 5; do
@@ -47,7 +49,24 @@ jobs:
           done
           rm -f streak.tmp
           [ "$ok" = 1 ] || echo "Streak service down; keeping previous card."
-          
+
+      - name: Generate activity graph
+        shell: bash
+        env:
+          URL: "https://github-readme-activity-graph.vercel.app/graph?username=Ranger-Jay&hide_border=true&radius=8&bg_color=0d0f14&color=e7e3db&title_color=a6dcff&line=a6dcff&point=7ff6ff&area=true&area_color=9d5cff&custom_title=Contribution%20activity%20(last%2031%20days)"
+        run: |
+          ok=0
+          for i in 1 2 3 4 5; do
+            if curl -sSfL --max-time 60 "$URL" -o activity.tmp \
+               && grep -q "<svg" activity.tmp; then
+              mv activity.tmp profile/activity.svg; ok=1; break
+            fi
+            echo "Attempt $i failed; retrying in 20s"
+            sleep 20
+          done
+          rm -f activity.tmp
+          [ "$ok" = 1 ] || echo "Activity graph service down; keeping previous card."
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
