@@ -84,31 +84,31 @@ Findings from live generation testing that shaped the tool:
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-20232A?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](./profile/badges/vscode.svg)
+![Cursor](https://img.shields.io/badge/Cursor-20232A?style=for-the-badge&logo=cursor&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
 **AI coding**
 
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logoColor=white)
-![Grok Build](https://img.shields.io/badge/Grok%20Build-000000?style=for-the-badge&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Antigravity](./profile/badges/antigravity.svg)
+![Codex](./profile/badges/codex.svg)
+![Grok Build](./profile/badges/grok.svg)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 **AI production pipeline**
 
-![Leonardo AI](https://img.shields.io/badge/Leonardo%20AI-8F7DE0?style=for-the-badge&logoColor=white)
-![Google Flow](https://img.shields.io/badge/Google%20Flow-5B8DEF?style=for-the-badge&logo=google&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)
-![Veo](https://img.shields.io/badge/Veo-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Leonardo AI](./profile/badges/leonardo.svg)
+![Google Flow](./profile/badges/flow.svg)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-20232A?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Veo](./profile/badges/veo.svg)
 
 **Learning next:** Testing Playwright · Postgres · More Node.js
 
