@@ -110,7 +110,7 @@ Findings from live generation testing that shaped the tool:
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-20232A?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![Veo](./profile/badges/veo.svg)
 
-**Learning next:** More Node.js & Python. Also learning Rust. Then: Testing, Postgres & Playwright.
+**Learning next:** More Node.js & Python. Also learning Rust. Then: Testing Postgres & Playwright.
 
 ---
 
