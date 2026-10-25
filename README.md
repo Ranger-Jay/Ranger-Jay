@@ -94,7 +94,7 @@ Findings from live generation testing that shaped the tool:
 ![VS Code](./profile/badges/vscode.svg)
 ![Cursor](https://img.shields.io/badge/Cursor-20232A?style=for-the-badge&logo=cursor&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **AI coding**
 
@@ -110,7 +110,7 @@ Findings from live generation testing that shaped the tool:
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-20232A?style=for-the-badge&logo=elevenlabs&logoColor=white)
 ![Veo](./profile/badges/veo.svg)
 
-**Learning next:** Testing Playwright · Postgres · More Node.js
+**Learning next:** More Node.js & Python. Also learning Rust. Then: Testing, Postgres & Playwright.
 
 ---
 
