@@ -7,7 +7,7 @@
 
 </div>
 
-# 📖 About M
+# 📖 About Me
 
 **Full Stack Web Developer · Film Director · Building AI production tooling**
 
