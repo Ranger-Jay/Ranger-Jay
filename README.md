@@ -51,6 +51,10 @@ Supports 44 image and video platforms.
 Directing, running an AI-assisted production pipeline across image generation, video
 generation, and voice.
 
+### Home Virtual AI Lab — teacher-student model training
+
+Running a local AI lab where a 27B teacher model (Qwen3) prepares a 4B student model (Spark-X2.6-4B) for on-device home-assistant work, using distillation data and behavior traces. Also building Kraken, a GitHub permission manager, and Funding Intelligence, an AI grant research platform. Solo entry in Meta's Switch AI hackathon, Nov 2026.
+
 ---
 
 # 🔬 What I've been learning the hard way
